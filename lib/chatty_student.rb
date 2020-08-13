@@ -11,7 +11,7 @@ class ChattyStudent < Student
     10.times{|pick_me| pick_me = "Pick me!"}
     
     puts pick_me 
-  
+  end
   
   
   
